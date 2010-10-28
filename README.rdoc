@@ -1,7 +1,7 @@
 = dm-is-searchable
 
 * http://datamapper.org
-* git://github.com/sam/dm-more.git
+* http://github.com/datamapper/dm-is-searchable
 
 == Description
 
@@ -113,8 +113,10 @@ value really only needs to respond to <tt>#[:id]</tt>.
 
 === Ferret
 Gem:: dm-ferret-adapter
-Git:: git://github.com/sam/dm-more.git # dm-more/adapters/dm-ferret-adapter
+Git:: git://github.com/datamapper/dm-ferret-adapter.git
 
 === Sphinx
+(not currently longer maintained)
+
 Gem:: dm-sphinx-adapter
 Git:: git://github.com/shanna/dm-sphinx-adapter.git
