@@ -116,7 +116,7 @@ Gem:: dm-ferret-adapter
 Git:: git://github.com/datamapper/dm-ferret-adapter.git
 
 === Sphinx
-(not currently longer maintained)
+(no longer maintained)
 
 Gem:: dm-sphinx-adapter
 Git:: git://github.com/shanna/dm-sphinx-adapter.git
